@@ -1,0 +1,7 @@
+.env
+
+# initial
+EweDefaultApp.iml
+modules.xml
+vcs.xml
+.gitignore
