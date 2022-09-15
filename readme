@@ -1,0 +1,8 @@
+# Install modules
+yarn install
+
+# run the app and close it when it's done
+yarn run-once
+
+# run the app and run again if you change the code
+yarn run-dev
